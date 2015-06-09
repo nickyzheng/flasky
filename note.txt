@@ -8,3 +8,5 @@ db
 172.25.73.114
 root/root
 admin/admin
+
+pip install -r requirements.txt
