@@ -37,6 +37,8 @@ nosetests.xml
 
 # SQLite databases
 *.sqlite
+*.sqlite.bak
 
 # Virtual environment
 venv
+
