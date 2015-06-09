@@ -3,3 +3,8 @@ https://github.com/miguelgrinberg/flasky/tree/3d
 https://github.com/nickyzheng/flasky
 
 http://blog.csdn.net/zjaysh/article/details/46228423
+
+db
+172.25.73.114
+root/root
+admin/admin
